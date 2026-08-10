@@ -1,0 +1,8 @@
+Host R1
+    HostName 192.168.122.254
+    User admin
+    Ciphers +aes128-cbc
+    KexAlgorithms +diffie-hellman-group14-sha1
+    HostKeyAlgorithms +ssh-rsa
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null

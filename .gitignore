@@ -1,0 +1,26 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Lab / runtime output
+*.gns3
+syslog-ng.ctl
+syslog-ng.persist
+
+# Ansible runtime output (generated reports/backups)
+test1Reports/
+vlanReports/
+practiceReports/
+runningConfigs/
+logs/
+backup_*.txt
+*_report.txt

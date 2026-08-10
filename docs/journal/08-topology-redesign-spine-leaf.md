@@ -14,7 +14,7 @@
 
 ## Three-Tier Spine-leaf architecture
 
-![New topology](../../assets/images/topology.png)
+![New topology](../../assets/images/My_Capstone_Network.png)
 
 - The new topology follows the three tier network architecture.
 	1. Core layer - ESW1 and ESW2

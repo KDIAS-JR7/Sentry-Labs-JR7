@@ -5,7 +5,7 @@
 > Networking (IBN).
 
 This repository is my personal documentation of the **network engineering side** of a
-5-person capstone project. It is a chronological journal: 18 working days, preserved as they
+5-person capstone project. It is a chronological journal: 19 working days, preserved as they
 happened — problems, failures, dead ends, and fixes included. No polish, no rewrite.
 
 ---
@@ -13,7 +13,7 @@ happened — problems, failures, dead ends, and fixes included. No polish, no re
 ## From zero to "competent rookie"
 
 Day 1: a GNS3 router that won't let a modern laptop SSH into it.
-Day 18: a single Ansible command that configures all 16 devices in the topology.
+Day 19: a self healing three tier network and a single Ansible command that configures all 16 devices in the topology.
 
 I'm not claiming to be an expert. This is the honest record of the climb.
 

@@ -37,7 +37,7 @@ I'm not claiming to be an expert. This is the honest record of the climb.
 | 16 | A Universal "Write" Playbook | Saving 16 devices with one command | [Day 16](docs/journal/16-universal-write-playbook.md) |
 | 17 | Access Layer Interface Configuration | A typo in `host_vars` — caught by Ansible idempotency | [Day 17](docs/journal/17-access-layer-interface-config.md) |
 | 18 | Syslog | Shipping syslog off-box to the host | [Day 18](docs/journal/18-syslog.md) |
-| 19 | Redundant Core | Fully self healing layers | [Day 19](docs/journal/19-Redundent-Core.md)
+| 19 | Redundant Core | Fully self healing layers | [Day 19](docs/journal/19-Redundent-Core.md)|
 
 ## The network
 

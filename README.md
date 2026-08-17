@@ -41,7 +41,7 @@ I'm not claiming to be an expert. This is the honest record of the climb.
 
 ## The network
 
-![Sentry-Pod network topology](assets/images/My_Capstone_Network.png)
+![Sentry-Pod network topology](assets/images/FinalTopology.png)
 
 ## Reading guide
 
